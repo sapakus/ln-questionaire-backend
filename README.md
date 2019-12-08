@@ -1,6 +1,6 @@
-# SPARKLE
+# LN Questionaire
 
-back end for sparkle
+back end for LN Questionaire
 
 ## Getting Started
 
